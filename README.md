@@ -2,4 +2,4 @@
 Alur aplikasi login
 - Masukkan user dan pass
 - Klik login
-- Masuk home
+- Masuk beranda
